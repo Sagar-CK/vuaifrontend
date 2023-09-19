@@ -15,10 +15,16 @@
     "@trpc/next": "^10.37.1",
     "@trpc/react-query": "^10.37.1",
     "@trpc/server": "^10.37.1",
+    "@uiw/react-markdown-editor": "^5.11.3",
+    "@uiw/react-md-editor": "^3.6.0",
+    "@zeit/next-css": "^1.0.1",
+    "md-editor-rt": "^4.6.2",
     "next": "^13.4.19",
+    "next-remove-imports": "^1.0.12",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "superjson": "^1.13.1",
+    "zeit": "^1.3.0",
     "zod": "^3.21.4"
   },
   "devDependencies": {
